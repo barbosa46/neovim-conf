@@ -1,4 +1,6 @@
 # neovim-conf
 ## Instalation
 
-`bash install.sh`
+```
+bash install.sh
+```
