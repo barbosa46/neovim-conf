@@ -31,7 +31,7 @@ then
     nvim -c 'PlugInstall'
 
     # Setup coc
-    cd ~/.config/plugged/coc.nvim
+    cd ~/.config/nvim/plugged/coc.nvim
     yarn install
 fi
 
