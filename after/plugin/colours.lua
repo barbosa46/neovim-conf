@@ -2,5 +2,5 @@
 -- vim.g.tokyonight_transparent = vim.g.tokyonight_transparent_enabled
 --vim.opt.background = "dark"
 
-vim.cmd("colorscheme tokyonight")
+vim.cmd("colorscheme rose-pine")
 
