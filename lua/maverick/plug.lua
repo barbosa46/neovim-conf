@@ -44,5 +44,8 @@ Plug 'VonHeikemen/lsp-zero.nvim'
 -- Love-Hate Relationship
 Plug 'https://github.com/jiangmiao/auto-pairs'
 
+-- Julia REPL
+Plug 'https://github.com/jpalardy/vim-slime'
+
 Plug.ends()
 
